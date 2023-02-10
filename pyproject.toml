@@ -8,7 +8,7 @@ authors = ["Jacek Palczewski <jpalczewski@gmail.com>"]
 python = "^3.8"
 fbchat = "^1.9.7"
 python-dotenv = "^0.14.0"
-IPython = "^7.18.1"
+IPython = "^8.10.0"
 
 [tool.poetry.dev-dependencies]
 flake8 = "^3.8.3"
